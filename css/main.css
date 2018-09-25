@@ -26,3 +26,21 @@ nav a {
 li {
 	margin-right: 20px;
 }
+
+.fa-facebook {
+	background: #3B5998;
+  	color: white;
+	font-size: 20px;
+	padding: 8px;
+	border-radius: 15%;
+	text-decoration: none;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: white;
+	font-size: 20px;
+	padding: 8px;
+	border-radius: 50%;
+	text-decoration: none;
+}
