@@ -44,3 +44,12 @@ li {
 	border-radius: 50%;
 	text-decoration: none;
 }
+
+/*About me*/
+
+.boxes {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	
+}
