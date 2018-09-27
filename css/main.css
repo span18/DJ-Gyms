@@ -59,8 +59,7 @@ ul {
 }
 
 .row li {
-	padding: 25px;
-	border: 2px solid black;
+	font-size: 25px;
 	width: 300px;
 	height: 200px;
 	margin-top: 8px;
@@ -72,30 +71,24 @@ ul {
 
 #gym-pic {
 	background-image: url("../Images/gym-pic.jpg");
-	background-image: no-repeat;
 }
 
 #personal-pic {
 	background-image: url("../Images/personal-pic.jpg");
-	background-image: no-repeat;
 }
 
 #boxing-pic {
 	background-image: url("../Images/boxing-pic.jpg");
-	background-image: no-repeat;
 }
 
 #classes-pic {
 	background-image: url("../Images/classes-pic.jpg");
-	background-image: no-repeat;
 }
 
 #cardio-pic {
 	background-image: url("../Images/cardio-pic.jpg");
-	background-image: no-repeat;
 }
 
 #coffee-pic {
 	background-image: url("../Images/coffee-shop.jpg");
-	background-image: no-repeat;
 }
