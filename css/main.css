@@ -75,8 +75,8 @@ ul {
 	background-image: no-repeat;
 }
 
-#cardio-pic {
-	background-image: url("../Images/cardio-pic.jpg");
+#personal-pic {
+	background-image: url("../Images/personal-pic.jpg");
 	background-image: no-repeat;
 }
 
@@ -85,4 +85,17 @@ ul {
 	background-image: no-repeat;
 }
 
-/*300px
+#classes-pic {
+	background-image: url("../Images/classes-pic.jpg");
+	background-image: no-repeat;
+}
+
+#cardio-pic {
+	background-image: url("../Images/cardio-pic.jpg");
+	background-image: no-repeat;
+}
+
+#coffee-pic {
+	background-image: url("../Images/coffee-shop.jpg");
+	background-image: no-repeat;
+}
