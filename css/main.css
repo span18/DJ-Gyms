@@ -47,9 +47,42 @@ li {
 
 /*About me*/
 
-.boxes {
-	list-style-type: none;
+.container {
 	display: flex;
 	justify-content: center;
-	
+	margin-left: 50px;
+	margin-right: 5px;
 }
+	
+ul {
+	list-style-type: none;
+}
+
+.row li {
+	padding: 25px;
+	border: 2px solid black;
+	width: 300px;
+	height: 200px;
+	margin-top: 8px;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+
+}
+
+#gym-pic {
+	background-image: url("../Images/gym-pic.jpg");
+	background-image: no-repeat;
+}
+
+#cardio-pic {
+	background-image: url("../Images/cardio-pic.jpg");
+	background-image: no-repeat;
+}
+
+#boxing-pic {
+	background-image: url("../Images/boxing-pic.jpg");
+	background-image: no-repeat;
+}
+
+/*300px
