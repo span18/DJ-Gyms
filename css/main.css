@@ -7,11 +7,15 @@ body {
 #layout {
 	display: flex;
 	justify-content: space-between;
+	border-top: 10px solid #ff3300;
+	margin-top: 20px;
 }
+
 nav ul {
 	list-style: none;
 	display: flex:
 	justify-content: space-around;
+	font-family: 'Anton', sans-serif;
 }
 
 nav a {
@@ -91,4 +95,9 @@ ul {
 
 #coffee-pic {
 	background-image: url("../Images/coffee-shop.jpg");
+}
+
+footer {
+	background-color: #ff3300;
+	height: 400px;
 }
