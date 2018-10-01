@@ -86,8 +86,7 @@ li {
 .container {
 	display: flex;
 	justify-content: center;
-	margin-left: 50px;
-	margin-right: 5px;
+
 }
 	
 ul {
@@ -98,38 +97,57 @@ ul {
 	font-size: 25px;
 	width: 300px;
 	height: 200px;
-	margin-top: 8px;
+	margin-top: 42px;
 	text-align: center;
 	border-radius: 10px;
 	color: white;
 
 }
 
+h2 {
+	font-family: 'Anton', sans-serif;
+	margin-top: 15px;
+	margin-left: 40px;
+	color: #cc0000;
+}
+
+article p {
+	font-family: 'Cairo', sans-serif;
+	text-align: center;
+	margin: 0px 148px 0px 148px;
+}
+
 #gym-pic {
 	background-image: url("../Images/gym-pic.jpg");
+	max-width: 300px;
 }
 
 #personal-pic {
 	background-image: url("../Images/personal-pic.jpg");
+	max-width: 300px;
 }
 
 #boxing-pic {
 	background-image: url("../Images/boxing-pic.jpg");
+	max-width: 300px;
 }
 
 #classes-pic {
 	background-image: url("../Images/classes-pic.jpg");
+	max-width: 300px;
 }
 
 #cardio-pic {
 	background-image: url("../Images/cardio-pic.jpg");
+	max-width: 300px;
 }
 
 #coffee-pic {
 	background-image: url("../Images/coffee-shop.jpg");
+	max-width: 300px;
 }
 
 footer {
-	background-color: #ff3300;
+	background-image: linear-gradient(0deg, #ff3300, #ffe6e6);
 	height: 400px;
 }
