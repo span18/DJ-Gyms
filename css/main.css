@@ -54,7 +54,6 @@ nav a:hover {
 	display: flex;
 	flex-direction: row;
 	margin-top: 70px;
-	margin-right: 310px;
 }
 
 div a {
@@ -72,6 +71,7 @@ li {
 	padding: 8px;
 	border-radius: 15%;
 	text-decoration: none;
+	margin-left: 310px;
 }
 
 .fa-facebook:hover {
