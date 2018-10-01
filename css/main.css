@@ -4,6 +4,20 @@ body {
 	border: 1px solid black;
 }
 
+.title {
+	background-color: #cc0000;
+	color: #fff;
+	padding: 13px;
+	border-radius: 50%;
+	margin-top: 10px;
+}
+
+.border {
+	margin-left: 5px;
+	margin-top: 25px;
+	margin-right: 300px;
+}
+
 h1 {
 	font-family: 'Anton', sans-serif;
 	font-size: 60px;
@@ -13,7 +27,6 @@ h1 {
 
 #layout {
 	display: flex;
-	justify-content: space-between;
 	border-top: 10px solid #ff3300;
 }
 
@@ -21,6 +34,7 @@ nav ul {
 	display: flex:
 	justify-content: space-around;
 	font-family: 'Anton', sans-serif;
+	font-size: 20px;
 }
 
 nav a {
@@ -39,12 +53,12 @@ nav a:hover {
 .position {
 	display: flex;
 	flex-direction: row;
-	margin-top: 40px;
-	margin-right: 80px;
+	margin-top: 70px;
+	margin-right: 310px;
 }
 
 div a {
-	margin-top: 33px;
+	margin-top: 68px;
 }
 
 li {
