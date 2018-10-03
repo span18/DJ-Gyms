@@ -15,7 +15,7 @@ body {
 .border {
 	margin-left: 5px;
 	margin-top: 25px;
-	margin-right: 300px;
+	margin-right: 280px;
 }
 
 h1 {
@@ -54,6 +54,14 @@ nav a:hover {
 	display: flex;
 	flex-direction: row;
 	margin-top: 70px;
+	margin-left: 90px;
+	max-width: 404px
+}
+
+@media screen and (max-width: 950px) {
+	.position {
+		font-size: 15px;
+	}
 }
 
 div a {
@@ -71,7 +79,8 @@ li {
 	padding: 8px;
 	border-radius: 15%;
 	text-decoration: none;
-	margin-left: 310px;
+	margin-left: 490px;
+	margin-right: -5px;
 }
 
 .fa-facebook:hover {
